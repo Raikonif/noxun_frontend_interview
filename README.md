@@ -1,6 +1,6 @@
-# React + TypeScript + Vite
+# Frontend Interview
 
-# Project Title
+# Text input and display
 
 A brief description of your project.
 
